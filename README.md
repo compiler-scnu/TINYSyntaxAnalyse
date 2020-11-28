@@ -1,9 +1,7 @@
 # TINYSyntaxAnalyse
 ## TINY语言扩充语法分析
 
-扩充的语法规则有：实现 while、do while、for、if语句、+= 加法赋值运算符号（类似于C语言的+=）、求余%、乘方^、<=(小于等于)
-
-<>(不等于)运算符号，具体文法规则自行构造。
+扩充的语法规则有：实现 while、do while、for、if语句、+= 加法赋值运算符号（类似于C语言的+=）、求余%、乘方^、<=(小于等于) <>(不等于)运算符号，具体文法规则自行构造。
 
 (1) While-stmt --> while(exp)  stmt-sequence  endwhile
 
